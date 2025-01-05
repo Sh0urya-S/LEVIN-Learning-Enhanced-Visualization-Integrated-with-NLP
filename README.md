@@ -1,2 +1,4 @@
 # LEVIN-Learning-Enhanced-Visualization-Integrated-with-NLP
-World's first Speech-to-Diagram synthesis
+World's first speech-to-diagram synthesis python application that's designed to address the inherent limitations of traditional teaching methods, such as the time-consuming nature of manual drawing or the rigidity of pre-prepared static visuals. By providing a dynamic visualization solution, it empowers educators to adapt to real-time discussions and student needs without disrupting he continuity of the lecture. The scope encompasses the development and application of NLP-driven features that enable the transformation of spoken instructions into precise and contextually relevant visual representations. This functionality ensures that the tool remains versatile and effective across a variety of subjects and teaching environments, including classrooms, online sessions, and professional training workshops.
+
+Please Note: This application is still in it's skeletal form and has only been developed for very basic elemenatary physics porblems regarding motion. Further addition of features and expansion over multiple subjects are yet to be implemented.
